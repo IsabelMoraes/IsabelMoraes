@@ -1,12 +1,20 @@
 <p align="center">
   <img src="https://github.com/IsabelMoraes/IsabelMoraes/blob/main/DevWorldvideo.gif" alt="Isabel Moraes presentation">
 </p>
- <br><br><br><br>
  
-EDITING TEXT
- 
+## ABOUT ME
+- I was born in Rio de Janeiro, BR but fall in love with Portugal and that's my current residence
+- I have a biological Science bachelor's degree  :microscope:
+  - (Worked with entomology and microbiology for a couple of years and that's when bioinformatics reached me)
+- I practiced martial arts for over 10 years   :martial_arts_uniform:
+- I am a proud Tryber's student   :rocket:
+     
+<br><br><br><br><br>
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=IsabelMoraes&show_icons=true&theme=react&rank_icon=github&border_radius=15)
+<br><br>
+
 <div align="center">
-<p>   :hammer_and_wrench: Languages and Tools I can work with: </p>
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -22,9 +30,7 @@ EDITING TEXT
       <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
   <br><br><br>
 </div>
-<br><br><br><br><br><br>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=IsabelMoraes&show_icons=true&theme=react&rank_icon=github&border_radius=15)
 <!--
 **IsabelMoraes/IsabelMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
