@@ -3,16 +3,31 @@
 </p>
  
 ## ABOUT ME
-- I was born in Rio de Janeiro, BR but fall in love with Portugal and that's my current residence
-- I have a biological Science bachelor's degree  :microscope:
-  - (Worked with entomology and microbiology for a couple of years and that's when bioinformatics reached me)
-- I practiced martial arts for over 10 years   :martial_arts_uniform:
-- I am a proud Tryber's student   :rocket:
+
+🌍 Originally from Rio de Janeiro, Brazil, I fell in love with Portugal and now call it home.
+
+🎓 I hold a Bachelor's degree in Biological Sciences, where I explored the fascinating worlds of entomology and microbiology. It was during this time that I discovered bioinformatics, sparking my passion for tech and development.
+
+🥋 A martial arts enthusiast, I’ve practiced for over 10 years, which has instilled in me discipline and resilience—qualities I bring into my coding journey.
+
+🚀 I’m a proud graduate of Trybe, where I honed my skills as a full-stack developer. I’m passionate about creating innovative digital solutions that make a difference.
+
+💻 On this GitHub, you’ll find my projects showcasing my journey in development, including full-stack applications, REST APIs, and more. I’m always eager to collaborate and learn from others in the community!
+
+Let’s connect and build something amazing together!
+
+
      
 <br><br><br><br><br>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=IsabelMoraes&show_icons=true&theme=react&rank_icon=github&border_radius=15)
-<br><br>
+<a href="https://github-readme-stats.vercel.app">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=IsabelMoraes&show_icons=true&theme=midnight-purple&rank_icon=github&count_weight&hide=contribs,issues,stars" />
+</a>
+<a href="https://github-readme-stats.vercel.app">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelMoraes&layout=compact" />
+</a>
+<br><br><br>
+
 
 <div align="center">
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -28,6 +43,8 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="PS" alt="PS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original-wordmark.svg" title="Maya" alt="Maya" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Illustrator" width="40" height="40"/>&nbsp;
+
   <br><br><br>
 </div>
 
