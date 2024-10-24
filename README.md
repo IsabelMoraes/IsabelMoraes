@@ -2,17 +2,16 @@
   <img src="https://github.com/IsabelMoraes/IsabelMoraes/blob/main/DevWorldvideo.gif" alt="Isabel Moraes presentation">
 </p>
  
-## ABOUT ME
 
 🌍 Originally from Rio de Janeiro, Brazil, I fell in love with Portugal and now call it home.
 
-🎓 I hold a Bachelor's degree in Biological Sciences, where I explored the fascinating worlds of entomology and microbiology. It was during this time that I discovered bioinformatics, sparking my passion for tech and development.
+🎓 I hold a Bachelor's degree in Biological Sciences, where I explored the fascinating worlds of entomology and microbiology. It was during that time that I discovered bioinformatics, which sparked my passion for tech and development.
 
-🥋 A martial arts enthusiast, I’ve practiced for over 10 years, which has instilled in me discipline and resilience—qualities I bring into my coding journey.
+🥋 As a martial arts enthusiast, I have practiced for over 10 years, instilling in me discipline and resilience—qualities I bring to my coding journey.
 
-🚀 I’m a proud graduate of Trybe, where I honed my skills as a full-stack developer. I’m passionate about creating innovative digital solutions that make a difference.
+🚀 I am a proud graduate of Trybe, where I honed my skills as a full-stack developer. I am passionate about creating innovative digital solutions that make a difference.
 
-💻 On this GitHub, you’ll find my projects showcasing my journey in development, including full-stack applications, REST APIs, and more. I’m always eager to collaborate and learn from others in the community!
+💻 On this GitHub, you will find my projects showcasing my journey in development, including full-stack applications, REST APIs, and more. I am always eager to collaborate and learn from others in the community!
 
 Let’s connect and build something amazing together!
 
